@@ -139,12 +139,12 @@ button:hover {
     .header .container {
         flex-direction: column;
         padding-top: 20px;
-        text-align: justify;
+        text-align: center;
     }
 
     .boxes .container {
         display: block;
-        text-align: justify;
+        text-align: center;
     }
 
     
